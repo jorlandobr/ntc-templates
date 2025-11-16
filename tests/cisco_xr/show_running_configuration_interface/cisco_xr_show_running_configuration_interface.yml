@@ -12,7 +12,7 @@ parsed_sample:
     flow_sampler: ""
     flow_sampler_v6: ""
     input_policy: "IN_BAND_S_50000_V1"
-    interface: "TenGigE2/1/0/0.1234256"
+    interface: "TenGigE2/1/0/0.1234256"
     ipv6_address:
       - "fe80:a8:2:b0::309"
     ip_address:
@@ -172,3 +172,4 @@ parsed_sample:
     unicast_source: ""
     unicast_source_v6: ""
     vrf: "OBS_CHIN:1236"
+
